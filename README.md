@@ -1,4 +1,4 @@
 # IndicIRSuite
 
 
-Code is coming soon!
+Code and dataset coming soon!

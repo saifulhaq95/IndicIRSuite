@@ -1,8 +1,3 @@
----
-license: mit
----
-
-
 # IndicIRSuite: Multilingual Dataset and Neural Information Models for Indian Languages
 
 

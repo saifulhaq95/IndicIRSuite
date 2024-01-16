@@ -1,15 +1,18 @@
 # IndicIRSuite: Multilingual Dataset and Neural Information Models for Indian Languages
 
-
-Authors: Saiful Haq, Ashutosh Sharma, Pushpak Bhattacharyya
-
 Paper link: https://arxiv.org/abs/2312.09508
 
 Dataset link: https://huggingface.co/datasets/saifulhaq9/indicmarco
 
 Model link: https://huggingface.co/saifulhaq9/indiccolbert
 
-## Kindly cite our paper, If you are are using our datasets or models:
+## Contributors & Acknowledgements
+
+Key Contributors and Team Members: Saiful Haq, Ashutosh Sharma, Pushpak Bhattacharyya
+
+IndicIRSuite reflects discussions with Omar Khattab.
+
+## Kindly cite our paper, If you are using our datasets or models:
 
 @article{haq2023indicirsuite,
   title={IndicIRSuite: Multilingual Dataset and Neural Information Models for Indian Languages},

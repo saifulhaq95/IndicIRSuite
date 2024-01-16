@@ -10,8 +10,6 @@ Model link: https://huggingface.co/saifulhaq9/indiccolbert
 
 Key Contributors and Team Members: Saiful Haq, Ashutosh Sharma, Pushpak Bhattacharyya
 
-IndicIRSuite reflects discussions with Omar Khattab.
-
 ## Kindly cite our paper, If you are using our datasets or models:
 
 @article{haq2023indicirsuite,

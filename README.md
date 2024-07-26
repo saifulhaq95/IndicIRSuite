@@ -8,7 +8,7 @@ Model link: https://huggingface.co/saifulhaq9/indiccolbert
 
 ## Contributors & Acknowledgements
 
-Key Contributors and Team Members: Saiful Haq, Ashutosh Sharma, Pushpak Bhattacharyya
+Key Contributors and Team Members: Saiful Haq, Ashutosh Sharma, Omar Khattab, Niyati Chhayya, Pushpak Bhattacharyya
 
 ## Kindly cite our paper, If you are using our datasets or models:
 
